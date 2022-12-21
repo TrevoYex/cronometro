@@ -1,3 +1,3 @@
 # ⏱ Cronômetro
 
-- link: https://trevoyex.github.io/cronometro/
+- link: https://estevamnetof.github.io/cronometro/
